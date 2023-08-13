@@ -8,7 +8,7 @@ Super simple Motorcycle Mayhem wheelie macro with Python.
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/a322f0a5-f065-4092-8cb9-fd47f2c3cd00)
 2. Open it and create a python file, ex: *script.py*
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/453c270c-0d2c-4164-970f-2303552fe91b)
-3. Paste all python code into file
+3. Paste all code from script.py into your python file
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/f466d76a-cb48-4f6b-893b-279fa45decaa)
 4. Open a terminal and paste: *pip install pydirectinput*
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/b26fc29f-e2ce-4529-b1bc-d260c5842cb1)
