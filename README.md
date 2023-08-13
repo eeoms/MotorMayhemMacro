@@ -14,5 +14,9 @@ Super simple Motorcycle Mayhem wheelie macro with Python.
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/b26fc29f-e2ce-4529-b1bc-d260c5842cb1)
 6. Run the python script with the icon in the top right
   ![image](https://github.com/eeoms/MotorMayhemMacro/assets/96942190/fd55a06c-4ce3-4910-9904-957d9e18e013)
+7. Immediatly tab back to Roblox and mount your motorcycle in an open area.
 
+## Warnings
+
+The macro will run forever if you do not stop it, you can just close vscode to stop the macro.
 
